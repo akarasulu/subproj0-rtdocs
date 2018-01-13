@@ -1,0 +1,6 @@
+[submodule "subproj0-rtdocs.wiki"]
+	path = subproj0-rtdocs.wiki
+	url = https://github.com/akarasulu/subproj0-rtdocs.wiki.git
+[submodule "docs"]
+	path = docs
+	url = https://github.com/akarasulu/subproj0-rtdocs.wiki.git
